@@ -29,19 +29,17 @@ export default function App() {
 
   function updateNote(text) {
     setNotes(oldNotes => {
+      const newNoteArray = [];
       for (let i = 0; i < oldNotes.length; i++) {
-        if (oldNotes[i].id === currentNoteId) {
-          oldNotes.unshift(oldNotes.splice(i, 1)[0])
-        }
-        
+        const oldNote = oldNotes[i]
+        if (oldNote.id === currentNoteId) {
+          newNoteArray.unshift({ ...oldNote, body: text })
+        } else {
+          newNoteArray.push(oldNote)
+        }   
       }
-      return oldNotes.map((oldNote, ind) => {
-        return (oldNote.id === currentNoteId
-          ? { ...oldNote, body: text }
-          : oldNote )
-      })
-    }
-    )
+      return newNoteArray
+    })
   }
 
   function findCurrentNote() {
