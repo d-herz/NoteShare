@@ -13,7 +13,7 @@ This "Notes App" not only allows you to do all of the above, but it will also al
 </p>
 
 
-<h3 align="left">Screenshot:</h3>
+<h3 align="left">Screenshots:</h3>
 
 <p align="center">
   <img src="https://github.com/d-herz/react-notes-app/blob/main/screenshots/notes-app-1.png" alt="screenshot" />
