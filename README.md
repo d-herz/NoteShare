@@ -12,10 +12,10 @@ A Markdown generating App that can store, retrieve, update, and delete Notes!
 <h3 align="left">Screenshot:</h3>
 
 <p align="center">
-  <img src="https://github.com/d-herz/react-notes-app/blob/main/notes-app-1.png" alt="screenshot" />
+  <img src="https://github.com/d-herz/react-notes-app/blob/main/screenshots/notes-app-1.png" alt="screenshot" />
 </p>
 <p align="center">
-  <img src="https://github.com/d-herz/react-notes-app/blob/main/notes-app-2.png" alt="screenshot" />
+  <img src="https://github.com/d-herz/react-notes-app/blob/main/screenshots/notes-app-2.png" alt="screenshot" />
 </p>
 
 
