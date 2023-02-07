@@ -1,11 +1,15 @@
 
-<h1 align="center"> Markdown Notes App </h1>
+<h1 align="center"><a href="https://d-herz.github.io/react-notes-app/"> Markdown Notes App </a></h1>
 
-<h3 align="center">Created with React</h3> 
+<h3 align="center">Created with React.js</h3> 
 
 <h3 align="left">About this project:</h3>
+
 <p align="left">
-A Markdown generating App that can store, retrieve, update, and delete Notes!
+Do you like to write stuff down? Make and save lists? Check the lists? Check the lists twice? How about make edits, deletes, and updates? Then this is the perfect app for you! Some of us (me) rely on the gratuitous use of LISTS and NOTES for surviving daily life! This is the perfect companion app for navigating adulthood and making sure the important things don't get lost in the shuffle.
+</p>
+<p align="left">
+This "Notes App" not only allows you to do all of the above, but it will also allow you to format your notes using common formatting rules, and will also generate the Markdown text to replicate the formatting anywhere Markdown is accepted (such as Discord, Reddit, GitHub Readmes, etc!)
 </p>
 
 
@@ -16,6 +20,15 @@ A Markdown generating App that can store, retrieve, update, and delete Notes!
 </p>
 <p align="center">
   <img src="https://github.com/d-herz/react-notes-app/blob/main/screenshots/notes-app-2.png" alt="screenshot" />
+</p>
+
+<h3 align="left">Quick facts about this project:</h3>
+<p align="left">
+<ul>
+<li>Built with React</li>
+<li>Deployed and Hosted with GitHub Pages</li>
+<li>Notes saved and retrieved from Local Storage (No db required!)</li> 
+</ul>
 </p>
 
 
@@ -34,5 +47,5 @@ A Markdown generating App that can store, retrieve, update, and delete Notes!
 <h4> Let's connect on Twitter and LinkedIn, </h4>
 <p align="left">
 <a href="https://twitter.com/danherz636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danherz636" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/d-herz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-hyres/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/d-herz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/d-herz/" height="30" width="40" /></a>
 </p>
