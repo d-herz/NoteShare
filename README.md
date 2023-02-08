@@ -6,7 +6,7 @@
 <h3 align="left">About this project:</h3>
 
 <p align="left">
-Do you like to write stuff down? Make and save lists? Check the lists? Check the lists twice? How about make edits, deletes, and updates? Then this is the perfect app for you! Some of us (me) rely on the gratuitous use of LISTS and NOTES for surviving daily life! This is the perfect companion app for navigating adulthood and making sure the important things don't get lost in the shuffle.
+Do you like to write stuff down? Make and save lists? Check the lists? Check the lists twice? How about make edits, deletes, and updates? Then this is the perfect app for you! Some of us (me) rely on the gratuitous use of LISTS and NOTES for surviving daily life. This is the perfect companion app for navigating adulthood and making sure the important things don't get lost in the shuffle.
 </p>
 <p align="left">
 This "Notes App" not only allows you to do all of the above, but it will also allow you to format your notes using common formatting rules, and will also generate the Markdown text to replicate the formatting anywhere Markdown is accepted (such as Discord, Reddit, GitHub Readmes, etc!)
