@@ -9,7 +9,7 @@
 NoteShare makes it easy to create and save notes that you can format, edit, update, and delete. The integrated formatting tools provide a comfortable and intuitive layout making it easy to create notes and lists on the fly.
 </p>
 <p align="left">
-NoteShare is also a handy Markdown generator. Convert your formatted text into markdown that will recreate the formatting anywhere Markdown is accepted (such as Discord, Reddit, GitHub Readmes, etc). Impress your friends with your Markdown skills, without ever learning Markdown! They don't have to know! ;)
+NoteShare is also a handy yet powerful Markdown generator. Convert your formatted text into markdown that will recreate the formatting anywhere Markdown is accepted (such as Discord, Reddit, GitHub Readmes, etc). Impress your friends with your Markdown skills, without ever learning Markdown! They don't have to know! ;)
 </p>
 
 
@@ -22,12 +22,12 @@ NoteShare is also a handy Markdown generator. Convert your formatted text into m
   <img src="https://github.com/d-herz/react-notes-app/blob/main/screenshots/notes-app-2.png" alt="screenshot" />
 </p>
 
-<h3 align="left">Quick facts about this project:</h3>
+<h3 align="left">About this project:</h3>
 <p align="left">
 <ul>
 <li>Built with React</li>
-<li>Deployed and Hosted with GitHub Pages</li>
-<li>Notes saved and retrieved from Local Storage (No db required!)</li> 
+<li>GitHub Pages CI/CD</li>
+<li>Uses local storage</li> 
 </ul>
 </p>
 
