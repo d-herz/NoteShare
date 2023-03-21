@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://d-herz.github.io/react-notes-app/"> Markdown Notes App </a></h1>
+<h1 align="center"><a href="https://d-herz.github.io/react-notes-app/"> NoteShare App </a></h1>
 
 <h3 align="center">Created with React.js</h3> 
 
@@ -9,7 +9,7 @@
 NoteShare makes it easy to create and save notes that you can format, edit, update, and delete. The integrated formatting tools provide a comfortable and intuitive layout making it easy to create notes and lists on the fly.
 </p>
 <p align="left">
-NoteShare is also a handy markdown generator. Convert your formatted text into markdown that will recreate the formatting anywhere markdown is accepted (such as Discord, Reddit, GitHub Readmes, etc). Impress your friends with your Markdown skills, they don't have to know! ;)
+NoteShare is also a handy Markdown generator. Convert your formatted text into markdown that will recreate the formatting anywhere Markdown is accepted (such as Discord, Reddit, GitHub Readmes, etc). Impress your friends with your Markdown skills, without ever learning Markdown! They don't have to know! ;)
 </p>
 
 
