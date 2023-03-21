@@ -6,7 +6,10 @@
 <h3 align="left">About this project:</h3>
 
 <p align="left">
-NoteShare is a note-taking app featuring a handy yet powerful Markdown generator. The integrated formatting tools provide a comfortable and intuitive layout from which the user can easily create, read, update and delete custom formatted notes. The formatted text can be converted into Markdown that will recreate the formatting anywhere Markdown is accepted (such as Discord, Reddit, GitHub Readme, etc). Impress your friends with your Markdown skills, without ever learning Markdown! They don't have to know! ;)
+NoteShare is a note-taking app featuring a handy yet powerful Markdown generator. The integrated formatting tools provide a comfortable and intuitive layout from which the user can easily create, read, update and delete notes with custom formatting. 
+</p>
+<p align="left">
+The formatted text can be converted into Markdown that will recreate the formatting anywhere Markdown is accepted (such as Discord, Reddit, GitHub Readme, etc). Impress your friends with your Markdown skills, without ever learning Markdown! They don't have to know! ;)
 </p>
 
 
