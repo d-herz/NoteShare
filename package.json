@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://d-herz.github.io/noteshare/",
+  "homepage": "https://d-herz.github.io/NoteShare/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
