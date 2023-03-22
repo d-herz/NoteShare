@@ -6,7 +6,7 @@
 <h3 align="left">About this project:</h3>
 
 <p align="left">
-NoteShare is a note-taking app featuring a handy yet powerful Markdown generator. The integrated formatting tools provide a comfortable and intuitive layout from which the user can easily create, read, update and delete notes with custom formatting. 
+NoteShare is a note-taking React app featuring a handy yet powerful Markdown generator. The integrated formatting tools provide a comfortable and intuitive layout from which the user can easily create, read, update and delete notes with custom formatting. 
 </p>
 <p align="left">
 The formatted text can be converted into Markdown that will recreate the formatting anywhere Markdown is accepted (such as Discord, Reddit, GitHub Readmes, etc). 
@@ -28,7 +28,7 @@ Impress your friends with your Markdown skills, without ever learning Markdown! 
 <h3 align="left">About this project:</h3>
 <p align="left">
 <ul>
-<li>Built with React</li>
+<li>Built with React, ReactDom, React MDE and Vite.js</li>
 <li>GitHub Pages CI/CD</li>
 <li>Uses local storage</li> 
 </ul>
