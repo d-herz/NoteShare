@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://d-herz.github.io/react-notes-app/"> NoteShare</a></h1>
+<h1 align="center"><a href="https://d-herz.github.io/NoteShare/"> NoteShare</a></h1>
 
 <h3 align="center">Created with React.js</h3> 
 
